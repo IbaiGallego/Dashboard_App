@@ -55,9 +55,9 @@ Implementacion de la app generando un pipeline (usando el codigo ya escrito en l
 
 ### Observaciones:
 * #### La empresa ha tenido un progreso positivo. Se observa estaccionalidad y picos lo que derivan en alta varianza.
-* #### Hay dos tipos de servicios con alta rentabilidad (no poseemos precios de coste).
-* #### Primer tipo los servicios estable que tienen un incremento en el importe de venntas constante y una frecuencia muy alta.
-* #### El segundo son servicios muy volatiles y con una varianza muy alta. 
-* #### El segundo tipo trae muchos más ingresos pero la estabilidad del primer tipo y su tendencia ascendente son muy prometedoras. 
-* #### Estudiar los costes del tipo estable para mantener la tendencia y convencer al resto de clientes para contratar estos servicios.
-* #### Los servicios mas volatiles requieren de clientes nuevos y por ello podriamos asumir que requieren mayor coste.
+* #### Hay dos tipos de servicios con alto importe de ventas.
+* #### Primer tipo son los servicios estables. Tienen un incremento en el importe de ventas constante y una frecuencia de compra muy alta.
+* #### El segundo son servicios muy volatiles con una varianza más alta. 
+* #### El segundo tipo trae muchos más ingresos. La estabilidad del primero su tendencia ascendente son muy prometedoras. 
+* #### Estudiar los costes del tipo estable para mantener la tendencia ascendente. Convencer al resto de clientes para contratar estos servicios. Marketing a los clientes actuales?
+* #### Los servicios mas volatiles requieren de clientes nuevos y por ello podriamos asumir que requieren mayor coste. Marketing para encontrar mas clientes?
