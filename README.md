@@ -60,4 +60,4 @@ Implementacion de la app generando un pipeline (usando el codigo ya escrito en l
 * #### El segundo son servicios muy volatiles y con una varianza muy alta. 
 * #### El segundo tipo trae muchos más ingresos pero la estabilidad del primer tipo y su tendencia ascendente son muy prometedoras. 
 * #### Estudiar los costes del tipo estable para mantener la tendencia y convencer al resto de clientes para contratar estos servicios.
-* #### Los servicios mas volatiles requieren de clientes nnuevos y por ello podriamos asumir que requieren mayor coste.
+* #### Los servicios mas volatiles requieren de clientes nuevos y por ello podriamos asumir que requieren mayor coste.
